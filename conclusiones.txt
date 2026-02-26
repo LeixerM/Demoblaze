@@ -1,0 +1,7 @@
+Hallazgos:
+- La automatización cuenta con un error ya que al realizar la aserción en la pantalla de gracias por tu compra , la fecha sale mal por que toma el mes anterior 
+
+Conclusiones: 
+- Se analizo el ejercicio y se planteo con el Framework Serenity BDD , Gradle , Java , Screenplay 
+- Se volvió un poco complejo al realizar el aceptar al agregar un producto ya que era un modal emergente de la pagina Demoblaze
+- Se trato de realizar el flujo E2E lo mas posible validado en base a los criterios de aceptación en base al enunciado de la prueba técnica.
