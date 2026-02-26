@@ -1,0 +1,15 @@
+{
+    "products": {
+      "product1": "Samsung galaxy s6",
+      "product2": "Nokia lumia 1520"
+    },
+    "form": {
+      "name": "Juan Perez",
+      "country": "Colombia",
+      "city": "Bogota",
+      "creditCard": "3242423423",
+      "month": "2",
+      "year": "2026"
+    },
+  "message": "Thank you for your purchase!"
+  }
